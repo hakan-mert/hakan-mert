@@ -3,8 +3,11 @@
 ![Software Test Engineer](https://t4.ftcdn.net/jpg/04/52/82/59/360_F_452825937_GmSapljUy0ivF6DeAFsUCoAAvzOAqsw5.jpg)
 
 👋 Hi! I'm a Software Test Engineer with hands-on experience in manual and automated testing.
+
 💻 Skilled in Java, Selenium, TestNG, and Postman, with a strong understanding of SDLC and STLC.
+
 🚀 Passionate about delivering high-quality software through detailed test planning and execution.
+
 🔍 Always learning, growing, and aiming to contribute to real-world, user-focused projects.
 
 Skills: JAVA / SELENIUM / HTML / TESTNG / CUCUMBER / MYSQL / JDBC / REST ASSURED / POSTMAN / APACHEPOI / JENKINS / JIRA / MAVEN
