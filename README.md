@@ -1,29 +1,43 @@
-### Hi there 👋, Hakan Mert
-#### Software Test Engineer
-![Software Test Engineer](https://t4.ftcdn.net/jpg/04/52/82/59/360_F_452825937_GmSapljUy0ivF6DeAFsUCoAAvzOAqsw5.jpg)
+<h1 align="center">Hi 👋, I'm Hakan Mert</h1>
+<h3 align="center">Software Test Engineer | Manual & Automation Tester</h3>
 
-👋 Hi! I'm a Software Test Engineer with hands-on experience in manual and automated testing.
+---
 
-💻 Skilled in Java, Selenium, TestNG, and Postman, with a strong understanding of SDLC and STLC.
+👋 Hello! I'm a **Software Test Engineer** with hands-on experience in both **manual and automated testing**.  
+💻 Skilled in **Java, Selenium, TestNG, Cucumber, JDBC, and Postman**.  
+🔍 Strong understanding of **SDLC** and **STLC**, focused on delivering reliable and maintainable test solutions.  
+🚀 I aim not just to find bugs, but to **prevent them early** and deliver software that truly serves its users.  
+📚 Lifelong learner, constantly growing and excited to contribute to **real-world, user-centered projects**.
 
-🚀 Passionate about delivering high-quality software through detailed test planning and execution.
+---
 
-🔍 Always learning, growing, and aiming to contribute to real-world, user-focused projects.
+### 🧰 Languages & Tools
 
-Skills: JAVA / SELENIUM / HTML / TESTNG / CUCUMBER / MYSQL / JDBC / REST ASSURED / POSTMAN / APACHEPOI / JENKINS / JIRA / MAVEN
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST--Assured-6DB33F?style=for-the-badge&logo=rest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning MySQL 
+---
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hakan-mert)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hakanmert/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakan-mert)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+### 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakan-mert&show_icons=true&locale=en&layout=compact" alt="hakan-mert" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakan-mert&show_icons=true&locale=en" alt="hakan-mert" /></p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakan-mert&" alt="hakan-mert streak stats"/>
+</p>
+
+---
+
+### 📬 Contact Me
+
+📧 Email: hakan_merts@hotmail.com  
+💼 LinkedIn: [linkedin.com/in/hakanmert](https://www.linkedin.com/in/hakanmert/)
