@@ -16,13 +16,6 @@
 📚 Lifelong learner, constantly growing and excited to contribute to **real-world, user-centered projects**.
 
 ###
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/hakan-mert/hakan-mert/output/snake.svg" alt="Snake animation" />
-
 ###
 
 
