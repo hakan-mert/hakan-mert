@@ -16,7 +16,7 @@
 📚 Lifelong learner, constantly growing and excited to contribute to **real-world, user-centered projects**.
 
 ###
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ###
 ---
