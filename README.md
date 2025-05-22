@@ -16,7 +16,17 @@
 📚 Lifelong learner, constantly growing and excited to contribute to **real-world, user-centered projects**.
 
 ###
+
+
+
+
+
 ![snake gif](https://github.com/hakan-mert/hakan-mert/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
+
 
 ###
 ---
