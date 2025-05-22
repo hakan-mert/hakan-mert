@@ -2,7 +2,11 @@
 <h3 align="center">Software Test Engineer | Manual & Automation Tester</h3>
 
 ---
+###
 <img src="https://raw.githubusercontent.com/hakan-mert/hakan-mert/output/snake.svg" alt="Snake animation" />
+
+
+
 
 ###
 👋 Hello! I'm a **Software Test Engineer** with hands-on experience in both **manual and automated testing**.  
