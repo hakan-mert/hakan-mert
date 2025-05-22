@@ -46,6 +46,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakan-mert&" alt="hakan-mert streak stats"/>
 </p>
 
+</div>
+<div align="center">
+
+</div>
+
 ![snake gif](https://github.com/hakan-mert/hakan-mert/blob/output/github-snake-dark.svg)
 
 ---
