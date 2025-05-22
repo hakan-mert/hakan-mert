@@ -4,10 +4,6 @@
 ---
 ###
 
-
-
-
-
 ###
 👋 Hello! I'm a **Software Test Engineer** with hands-on experience in both **manual and automated testing**.  
 💻 Skilled in **Java, Selenium, TestNG, Cucumber, JDBC, and Postman**.  
@@ -49,6 +45,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakan-mert&" alt="hakan-mert streak stats"/>
 </p>
+
+![snake gif](https://github.com/hakan-mert/hakan-mert/blob/output/github-snake-dark.svg)
 
 ---
 
