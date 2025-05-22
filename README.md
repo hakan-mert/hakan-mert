@@ -9,10 +9,10 @@
 🚀 I aim not just to find bugs, but to **prevent them early** and deliver software that truly serves its users.  
 📚 Lifelong learner, constantly growing and excited to contribute to **real-world, user-centered projects**.
 
+###
 <img src="https://raw.githubusercontent.com/hakan-mert/hakan-mert/output/snake.svg" alt="Snake animation" />
 
 ###
-
 ---
 
 ### 🧰 Languages & Tools
