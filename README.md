@@ -21,7 +21,9 @@
 
 
 
-![snake gif](https://github.com/hakan-mert/hakan-mert/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/hakan-mert/hakan-mert/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
